@@ -1,4 +1,4 @@
-<h2 align="center">👋 Oi! Meu nome e Atos e eu sou a 5ª Onda</h2>
+<h2 align="center">👋 Oi! Meu nome é Atos e eu sou a 5ª Onda</h2>
 
 ![darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif) 
 ![Hydreigon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif)
