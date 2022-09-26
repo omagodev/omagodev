@@ -23,12 +23,12 @@ Alguns projeto que me orgulho de ter desenvolvido:
 
 [Me manda uma DM no instagram 😀](https://www.instagram.com/5quintaonda/)
 
-## 
+## POR TRAS DO PROGRAMADOR EXISTE ALGUÉM QUE
 
-🏃‍♂️ Gosto de andar de patins no park
+🏃‍♂️ Gosta de andar de patins no park
 
-🏕 Curto acampar e aprecio bastante a natureza
+🏕 Curte acampar e aprecia bastante a natureza
 
-🌎 Nunca sai do país
+🌎 Nunca saiu do país
 
-🏠 Moro em Brasília mas nasci em minas.
+🏠 Mora em Brasília mas nasceu em minas.
