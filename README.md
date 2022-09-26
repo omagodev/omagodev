@@ -23,7 +23,7 @@ Alguns projeto que me orgulho de ter desenvolvido:
 
 [Me manda uma DM no instagram 😀](https://www.instagram.com/5quintaonda/)
 
-## POR TRAS DO PROGRAMADOR EXISTE ALGUÉM QUE
+## Por tras do programador existe alguém que
 
 🏃‍♂️ Gosta de andar de patins no park
 
