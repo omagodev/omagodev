@@ -1,16 +1,34 @@
-### Hi there 👋
+<h2 align="center">👋 Oi! Meu nome e Atos e eu sou a 5ª Onda</h2>
 
-<!--
-**AthosVinicius/AthosVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![darkrai](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif) 
+![Hydreigon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif)
+![Hydreigon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![jirachi](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/2.gif)
+![Hydreigon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/5.gif)
+![Hydreigon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/8.gif)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Gengar](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/3.gif)
+![Hydreigon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif)
+![Hydreigon](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif)
 
-Here are some ideas to get you started:
+Provavelmente você caiu aqui através de um dos meus projetos do instagram ou do GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Eu sou desenvolvedor e gosto de Javascript, também conhecido entre amigos desenvolvedores como "***The JavaScript wizard***". 
+
+Alguns projeto que me orgulho de ter desenvolvido:
+
+1) [Portal Yugioh](https://portalyugioh.com.br)
+1) [5Onda](https://5onda.com.br)
+
+## Quer contribuir com meus projetos?
+
+[Me manda uma DM no instagram 😀](https://www.instagram.com/5quintaonda/)
+
+## 
+
+🏃‍♂️ Gosto de andar de patins no park
+
+🏕 Curto acampar e aprecio bastante a natureza
+
+🌎 Nunca sai do país
+
+🏠 Moro em Brasília mas nasci em minas.
