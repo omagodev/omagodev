@@ -21,7 +21,7 @@ Alguns projeto que me orgulho de ter desenvolvido:
 
 ## Quer contribuir com meus projetos?
 
-[Me manda uma DM no instagram 😀](https://www.instagram.com/5quintaonda/)
+[Me manda uma DM no instagram 😀](https://www.instagram.com/omago.dev/)
 
 ## Por trás do programador existe alguém que
 
