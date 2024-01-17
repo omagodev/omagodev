@@ -12,7 +12,7 @@
 
 Provavelmente você caiu aqui através de um dos meus projetos do instagram ou do GitHub.
 
-Eu sou desenvolvedor e gosto de Javascript, também conhecido entre amigos desenvolvedores como "***The JavaScript wizard***". 
+Eu sou desenvolvedor, também conhecido entre amigos desenvolvedores como "***The dev wizard***". 
 
 Alguns projeto que me orgulho de ter desenvolvido:
 
